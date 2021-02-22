@@ -3,11 +3,6 @@ import pandas as pd
 import re
 import plotly.graph_objs as go
 
-# proj3_choc.py
-# You can change anything in this file you want as long as you pass the tests
-# and meet the project requirements! You will need to implement several new
-# functions.
-
 # Part 1: Read data from a database called choc.db
 DBNAME = 'choc.sqlite'
 
