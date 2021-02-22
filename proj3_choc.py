@@ -1,8 +1,3 @@
-'''
-Name: Shiyu Guo
-Uniqname: shiyuguo
-'''
-
 import sqlite3
 import pandas as pd
 import re
