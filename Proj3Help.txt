@@ -1,0 +1,19 @@
+Commands:
+
+- [bars|companies|countries|regions], default=bars
+    - Lists chocolate bars, sellers, countries or regions, according to the specified parameters.
+
+Parameters:
+
+- [none|country=<alpha2>| region=<name>], default=none
+    - A country or region within which to limit the results.
+- [sell|source], default=sell
+    - Whether to filter countries/regions based sellers or bean sources.
+- [ratings|cocoa|number_of_bars], default=ratings
+    - Whether to sort/aggregate by rating, cocoa percentage, or the number of different types of bars.
+- [top|bottom], default=top
+    - List results in descending (top) or ascending (bottom) order.
+- <integer>, default=10
+    - List <limit> matches.
+- <barplot>
+    - Bar graph
